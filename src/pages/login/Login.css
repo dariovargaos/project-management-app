@@ -1,0 +1,14 @@
+.icon {
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 330px;
+    color: rgb(3, 196, 154);
+    text-align: center;
+}
+
+.icon2 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 333px;
+    color: rgb(3, 196, 154);
+}
